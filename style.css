@@ -1,0 +1,9 @@
+body {
+    font-family: 'DotGotchic16', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    background-image: url("./flappybirdbg.png");
+    
+}
